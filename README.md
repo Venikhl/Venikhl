@@ -11,11 +11,11 @@
 
 ## About Me | Обо мне
 
-I'm a 3rd-year student at [Innopolis University](https://innopolis.university/en/) (B.Sc. in Data Science & AI).  
+I'm a 4th-year student at [Innopolis University](https://innopolis.university/en/) (B.Sc. in Data Science & AI).  
 Passionate about front-end development using Vue.js and modern web technologies.  
 Fluent in English and Russian. Open to full-time and freelance opportunities.
 
-Я студент 3 курса Университета Иннополис, направление Data Science & AI.  
+Я студент 4 курса Университета Иннополис, направление Data Science & AI.  
 Увлечён фронтенд-разработкой, создаю чистые и масштабируемые интерфейсы.  
 Свободно владею английским и русским. Готов к полной занятости и фрилансу.
 
@@ -53,8 +53,8 @@ Fluent in English and Russian. Open to full-time and freelance opportunities.
 
 | Проект           | Технологии                                   | Краткое описание                                                                                         |
 |------------------|---------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| [Aglaya Bot]()   | `Python`, `Telegram API`, `Qdrant`, `AWS S3`, `Face Recognition` | Телеграм-бот с ИИ для верификации и управления документами. <br>Telegram bot with AI-powered verification and document management. |
-| [CharCreate_GenAI](https://github.com/pferdlexxie/CharCreate_GenAI) | `Python`, `PyTorch`, `BERT`, `Diffusion Models`      | Генерация персонажей с мультимодальными моделями (text-to-audio, text-to-image). <br>Character generation with multimodal models (text-to-audio, text-to-image). |
+| [Aglaya Bot](https://drive.google.com/file/d/1fjYvWQoMqoa0jL173P-joOd6mVtt-ilT/view)   | `Python`, `Telegram API`, `Qdrant`, `AWS S3`, `Face Recognition` | Телеграм-бот с ИИ для верификации и управления документами. <br>Telegram bot with AI-powered verification and document management. |
+| [CharCreate_GenAI](https://github.com/Venikhl/WebAppMusicImageGen.git) | `Python`, `PyTorch`, `BERT`, `Diffusion Models`      | Генерация персонажей с мультимодальными моделями (text-to-audio, text-to-image). <br>Character generation with multimodal models (text-to-audio, text-to-image). |
 | [Vacancy aggregator](https://github.com/Venikhl/vacancy-aggregator.git) | `Vue.js`, `PostgreSQL`, `Node.js`                   | Платформа поиска работы и подбора кадров. <br>Job search and recruitment platform.                      |
 | [Github aggregator](https://github.com/Venikhl/GoOpenSource.git) | `Vue.js`, `Node.js`                                | Агрегатор Git-сервисов и OSS проектов. <br>Aggregator of Git services and OSS projects.                 |
 | [PMLMDLProject](https://github.com/Venikhl/PMLMDLProject) | `Python`, `Scikit-learn`, `NLP`                      | Модель распознавания эмоций по тексту с NLP и Random Forest. <br>Emotion recognition model from text using NLP and Random Forest. |
