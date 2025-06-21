@@ -1,5 +1,5 @@
 <h1 align="center">Gleb Pavlov</h1>
-<p align="center"><strong>Vue.js Developer | Data Science Student | Open to work</strong></p>
+<p align="center"><strong>Vue.js Developer | Data Scientist | Open to work</strong></p>
 
 <p align="center">
   <a href="mailto:g.o.pavlov2019@gmail.com"><img src="https://img.shields.io/badge/email-g.o.pavlov2019@gmail.com-blue?style=flat&logo=gmail" alt="email" /></a>
@@ -9,15 +9,15 @@
 
 ---
 
-## About Me | Обо мне
+## Обо мне | About Me
+
+Я студент 4 курса [Университета Иннополис](https://innopolis.university/), направление Data Science & AI.  
+Увлечён фронтенд-разработкой, создаю чистые и масштабируемые интерфейсы.  
+Свободно владею английским и русским. Готов к полной занятости и фрилансу.
 
 I'm a 4th-year student at [Innopolis University](https://innopolis.university/en/) (B.Sc. in Data Science & AI).  
 Passionate about front-end development using Vue.js and modern web technologies.  
 Fluent in English and Russian. Open to full-time and freelance opportunities.
-
-Я студент 4 курса Университета Иннополис, направление Data Science & AI.  
-Увлечён фронтенд-разработкой, создаю чистые и масштабируемые интерфейсы.  
-Свободно владею английским и русским. Готов к полной занятости и фрилансу.
 
 ---
 
